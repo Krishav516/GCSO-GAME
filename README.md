@@ -1,2 +1,2 @@
-# GCSO-GAME
-Play the game and follow me.......................
+# p5.play-boilerplate
+Boiler plate for p5.play
